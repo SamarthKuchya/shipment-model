@@ -20,7 +20,7 @@ This Flask-based web application predicts whether a shipment will be successful 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/shipment-prediction.git
+   git clone https://github.com/SamarthKuchya/shipment-model.git
    cd shipment-prediction
    ```
 
